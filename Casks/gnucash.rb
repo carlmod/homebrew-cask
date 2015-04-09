@@ -1,5 +1,5 @@
 cask :v1 => 'gnucash' do
-  version '2.6.5-6'
+  version '2.6.6-4'
   sha256 '84a55674ef9a78b0aebf530017cca31204d1270110675c916bee0fb8d838030a'
 
   # sourceforge.net is the official download host per the vendor homepage
